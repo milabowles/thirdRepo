@@ -1,11 +1,10 @@
-print ("hello, world")
 
 
 
-n = 0
 
-while n < 100:
-    print(n)
-    n += 1
 
-    print ("hello, Git")
+
+a = 10
+P = 4 * a
+print(P)
+
