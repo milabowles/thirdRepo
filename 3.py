@@ -4,7 +4,6 @@
 
 
 
-a = 10
-P = 4 * a
-print(P)
-
+side_length = 10
+perimeter = 4 * side_length
+print(perimeter)
